@@ -25,7 +25,7 @@
     "express-ipfilter": "^1.1.2",
     "express-rate-limit": "^5.1.1",
     "helmet": "^3.22.0",
-    "next": "^9.3.2",
+    "next": "^11.1.0",
     "node-sass": "^4.13.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
